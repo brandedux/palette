@@ -12,7 +12,7 @@ Import palette.scss into your app.scss or primary file.<br />
 ```@import './palette';```
 
 **Example Class:**<br />
-Include the palette classe in your markup.<br />
+Include the palette class in your markup.<br />
 ```class="palette"```
 
 Nest color, grayscale and alpha channel classes within the palette class.<br /> 
