@@ -37,12 +37,9 @@ So that the final nested class appears like:
 * blue
 * indigo
 * violet
-
 * ultraviolet
-
 * black
 * white
-
 * grayscale-90
 * grayscale-80
 * grayscale-70
