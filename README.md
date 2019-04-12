@@ -15,7 +15,7 @@ Import palette.scss into your app.scss or primary file.<br />
 Include the palette classe in your markup.<br />
 ```class="palette"```
 
-Nest color, greyscale and alpha channel classes within the palette class.<br /> 
+Nest color, grayscale and alpha channel classes within the palette class.<br /> 
 ```class="bg-red txt-black alpha-50"```
 
 So that the final nested class appears like:
@@ -29,7 +29,7 @@ So that the final nested class appears like:
 * bg = background color
 * txt = text color
 
-#### 2. Default color, tint and greyscale arrays
+#### 2. Default color, tint and grayscale arrays
 * red
 * orange
 * yellow
@@ -43,15 +43,15 @@ So that the final nested class appears like:
 * black
 * white
 
-* greyscale-90
-* greyscale-80
-* greyscale-70
-* greyscale-60
-* greyscale-50
-* greyscale-40
-* greyscale-30
-* greyscale-20
-* greyscale-10 
+* grayscale-90
+* grayscale-80
+* grayscale-70
+* grayscale-60
+* grayscale-50
+* grayscale-40
+* grayscale-30
+* grayscale-20
+* grayscale-10 
 
 #### 3. Opacity Class Array
 * alpha-90
