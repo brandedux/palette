@@ -50,7 +50,7 @@ So that the final nested class appears like:
 * grayscale-20
 * grayscale-10 
 
-#### 3. Opacity Class Array
+#### 3. Opacity array
 * alpha-90
 * alpha-80
 * alpha-70
