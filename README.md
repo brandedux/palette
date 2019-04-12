@@ -19,8 +19,7 @@ Nest color, grayscale and alpha channel classes within the palette class.<br />
 ```class="bg-red txt-black alpha-50"```
 
 Nested classes should be used like:
-```
-<div class="palette">
+```<div class="palette">
   <p class="bg-red txt-black alpha-50">Warning!</p>
 </div>
 ```
