@@ -1,7 +1,9 @@
 # Palette
+[![Build Status](https://api.travis-ci.org/brandedux/palette.svg?branch=master)](https://travis-ci.org/brandedux/palette)
+
 Simply download it and import it from your CSS library.
 
-[![Build Status](https://api.travis-ci.org/brandedux/palette.svg?branch=master)](https://travis-ci.org/brandedux/palette)
+<img src="palette-example.png" />
 
 ## Getting started
 Download or clone the code.<br /> 
@@ -60,7 +62,6 @@ Nested classes should be used like:
 * alpha-30
 * alpha-20
 * alpha-10
-
 
 #### Copyright and License
 Copyright (c) 2019, Jeff Davis.
