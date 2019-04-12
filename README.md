@@ -18,11 +18,10 @@ Include the palette class in your markup.<br />
 Nest color, grayscale and alpha channel classes within the palette class.<br /> 
 ```class="bg-red txt-black alpha-50"```
 
-Nested classes should be used like:
-```<div class="palette">
-  <p class="bg-red txt-black alpha-50">Warning!</p>
-</div>
-```
+Nested classes should be used like:<br />
+```<div class="palette">```<br />
+```  <p class="bg-red txt-black alpha-50">Warning!</p>```<br />
+```</div>```<br />
 
 #### 1. Prefixes for background and text colors
 * bg = background color
