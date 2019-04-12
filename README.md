@@ -1,6 +1,4 @@
 # Palette
-[![Build Status](https://api.travis-ci.org/brandedux/palette.svg?branch=master)](https://travis-ci.org/brandedux/palette)
-
 Simply download it and import it from your CSS library.
 
 <img src="palette-example.png" />
